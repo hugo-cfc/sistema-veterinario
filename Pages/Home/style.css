@@ -1,0 +1,117 @@
+header {
+    width: 1920px;
+    height: 96px;
+    background: #9B51E0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#logoHeader {
+    position: absolute;
+    width: 70px;
+    height: 77px;
+    left: 13px;
+    top: 10px;
+}
+
+#saudationHeader {
+    position: absolute;
+    width: 213px;
+    height: 22px;
+    left: 93px;
+    top: 56px;
+
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+#logoutImg {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 1822px;
+    top: 60px;
+}
+
+#textButtonLogout {
+    position: absolute;
+    width: 33px;
+    height: 22px;
+    left: 1851px;
+    top: 61px;
+
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+}
+
+#containerCentral {
+    position: absolute;
+    width: 1230px;
+    height: 748px;
+    left: 313px;
+    top: 156px;
+
+    background: #F4F4F4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    padding-top: 20px;
+    padding-left: 32px;
+    padding-right: 32px;
+    
+}
+
+#titleContainer {
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.buttonsContainer {
+    width: 190px;
+    height: 170px;
+
+
+    background: linear-gradient(360deg, #9B51E0 -4.41%, #BA81EF 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+
+.iconsButtonsContainer {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    margin-top: 20px;
+    margin-left: 37px;
+}
+
+.functionButtonContainer {
+    width: 155px;
+    height: 44px;
+    left: 362px;
+    top: 399px;
+    margin-left: 17px;
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 14px;
+
+    color: #9B51E0;
+}

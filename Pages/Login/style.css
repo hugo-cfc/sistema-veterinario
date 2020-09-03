@@ -1,0 +1,183 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./fundoEditado.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#logo {
+    position: absolute;
+    width: 343.44px;
+    height: 339.51px;
+    left: 788px;
+    top: 84px;
+}
+
+#nameLogo {
+    position: absolute;
+    width: 255.13px;
+    height: 118.83px;
+    left: 831.47px;
+    top: 451.07px;
+    font-family: "Nova Flat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #FFFFFF;
+    -webkit-text-stroke-width: 1px solid;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.3);
+}
+
+#divLogin {
+    position: absolute;
+    width: 272.12px;
+    height: 169.81px;
+    left: 792.97px;
+    top: 625.39px;
+    background: #F4F4F4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+#buttonLogin {
+    position: absolute;
+    width: 155.23px;
+    height: 44.91px;
+    left: 881.14px;
+    top: 840.74px;
+    background: linear-gradient(0deg, #9B51E0 0%, #BA7CF3 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    border: none;
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    outline: none;
+
+}
+
+#divLogin {
+    padding-left: 27.03px;
+    padding-right: 33.67px ;
+    padding-bottom: 41.96px;
+    padding-top: 26.61px;
+}
+
+#separatorLoginDiv{
+    width: 100%;
+    height: 0px;
+    left: 810.35px;
+    top: 763.42px;
+    border: 1px solid #BDBDBD;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#emailLoginInput{
+    width: 218px;
+    height: 62px;
+    left: 820px;
+    top: 682px;
+    border: none;
+    background: #F4F4F4;
+    font-size: 18px;
+    font-family: "Nova Flat";
+    color: #333333;
+    outline: none;
+
+}
+
+#emailLoginInput::-webkit-input-placeholder{
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
+
+#emailIcon {
+    width: 33.12px;
+    height: 19.73px;
+}
+
+#senhaLoginInput{
+    width: 218px;
+    height: 62px;
+    left: 820px;
+    top: 682px;
+    border: none;
+    background: #F4F4F4;
+    font-size: 18px;
+    font-family: "Nova Flat";
+    color: #333333;
+    outline: none;
+}
+
+#senhaLoginInput::-webkit-input-placeholder {
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
+
+#lostPasswordLink {
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+#cadastreDiv {
+}
+
+#noAccountDiv {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 848px;
+    top: 916px;
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    color: #000000;
+    -webkit-text-stroke-width: 1px solid;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.3);
+}
+
+#cadastreLink {
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 979px;
+    top: 916px;
+
+    font-family: Nova Flat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #000000;
+    -webkit-text-stroke-width: 1px solid;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.3);
+}
+
+
+
